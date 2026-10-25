@@ -1,0 +1,19 @@
+# Sistemas operativos
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales de ofimatica
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Capturas de red grandes (descomenta si no quieres versionar los .pcap)
+# *.pcap
+# *.pcapng
+
+# Entornos / editores
+.vscode/
+.idea/
+__pycache__/
+*.pyc
